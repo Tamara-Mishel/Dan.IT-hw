@@ -1,0 +1,14 @@
+package java_hw_1.h.H;
+
+public class H_Task_1 {
+    public static void main(String[] args) {
+        int a = 7;
+        int b =9;
+
+        a = a + b;
+        b = a - b;
+        a = a - b;
+        System.out.println(a);
+        System.out.println(b);
+    }
+}
