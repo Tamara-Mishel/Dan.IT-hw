@@ -1,4 +1,4 @@
-package java_hw_1;
+package java_hw_2;
 
 public class H_Task_2 {
     public static void main(String[] args) {
