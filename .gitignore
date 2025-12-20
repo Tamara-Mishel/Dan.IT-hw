@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA project files
+.idea/
+
+# build output
+out/
+
+# text files
+*.txt
