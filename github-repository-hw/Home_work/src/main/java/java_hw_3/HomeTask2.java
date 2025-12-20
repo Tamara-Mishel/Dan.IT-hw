@@ -1,7 +1,7 @@
 package java_hw_3;
 import java.util.Scanner;
 
-public class H_Task_2 {
+public class HomeTask2 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

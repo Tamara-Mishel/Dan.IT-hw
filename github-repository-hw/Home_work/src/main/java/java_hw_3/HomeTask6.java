@@ -1,11 +1,9 @@
 package java_hw_3;
 import java.util.Scanner;
 
-public class H_Task_6 {
+public class HomeTask6 {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Enter program (IntelliJ, Git, Java):");
         String program = scanner.next();
 

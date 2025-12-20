@@ -2,7 +2,7 @@ package java_hw_3;
 
 import java.util.Scanner;
 
-public class H_Task_4 {
+public class HomeTask4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("EEnter number from 1 to 7: ");
