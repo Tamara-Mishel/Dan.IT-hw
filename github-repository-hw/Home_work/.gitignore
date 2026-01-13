@@ -1,2 +1,10 @@
-.idea
-out
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files
+out/
+*.class
+
+# Maven / build
+target/
