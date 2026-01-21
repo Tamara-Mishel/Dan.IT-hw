@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class HomeTask4 {
     public static void main(String[] args) {
-        String[] names = {"Петя", "Маша", "Олена", "Федя", "Саша", "Антон", "Гліб"};
+        String[] names = {"Petro", "Masha", "Olena", "Fedor", "Sasha", "Anton", "Glib"};
         int[] times = {10, 12, 14, 16, 18, 20};
-        String[] places = {"школу", "магазин", "церква", "тренажерний зал", "кіно", "поліклініку"};
+        String[] places = {" school", "shop", "church", " gym", "cinema", "hospital"};
 
         Scanner scanner = new Scanner(System.in);
 
@@ -23,7 +23,7 @@ public class HomeTask4 {
         } else if (timeIndex < 0 || timeIndex >= times.length) {
             System.out.println("Wrong time index!");
         } else {
-            System.out.println(names[nameIndex] + " буде йти до " + places[placeIndex] + " о " + times[timeIndex] + ":00");
+            System.out.println(names[nameIndex] + " will be go to " + places[placeIndex] + " о " + times[timeIndex] + ":00");
         }
 
         scanner.close();
