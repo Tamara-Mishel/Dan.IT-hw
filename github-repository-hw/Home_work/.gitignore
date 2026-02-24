@@ -1,2 +1,8 @@
 .idea
 out
+# macOS
+.DS_Store
+
+# Maven/IDE build
+/target/
+*.class
