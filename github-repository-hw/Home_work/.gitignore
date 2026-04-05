@@ -1,8 +1,12 @@
-.idea
-out
-# macOS
+# macOS system files
 .DS_Store
 
-# Maven/IDE build
-/target/
-*.class
+# IntelliJ IDEA project files
+.idea/
+
+# build output
+out/
+target/
+
+# text files
+*.txt
