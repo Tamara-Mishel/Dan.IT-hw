@@ -9,3 +9,4 @@ out/
 
 # text files
 *.txt
+target/
